@@ -1,0 +1,30 @@
+.default {
+  height: 30px;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 20px;
+  letter-spacing: 3px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: deeppink;
+  }
+
+  &:active {
+    background-color: hotpink;
+  }
+}
+
+.red {
+  height: 30px;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 20px;
+  letter-spacing: 3px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: red;
+  }
+}
+

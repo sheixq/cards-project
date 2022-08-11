@@ -1,0 +1,25 @@
+@import "../../common/styles/variables";
+
+.navList {
+  text-align: center;
+  background-color: $primaryColor;
+
+  h2 {
+    background-color: white;
+    color: $primaryColor;
+    height: 50px;
+  }
+
+  .navLink {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+      color: deeppink;
+    }
+  }
+}
+
+
+
