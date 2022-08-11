@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cards-project/static/css/main.9e320778.css",
+    "main.js": "/cards-project/static/js/main.eda6b191.js",
+    "index.html": "/cards-project/index.html",
+    "main.9e320778.css.map": "/cards-project/static/css/main.9e320778.css.map",
+    "main.eda6b191.js.map": "/cards-project/static/js/main.eda6b191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e320778.css",
+    "static/js/main.eda6b191.js"
+  ]
+}
